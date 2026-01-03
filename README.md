@@ -11,7 +11,7 @@ Before you begin, ensure you have the following installed:
 ## Installation
 
 ### 1. Clone the Repository
-git clone https://github.com/yourusername/masjid-receipts-api.git
+git clone https://github.com/Abdurrehman994/masjid-receipts-api.git
 ### 2. Create Virtual Environment
 
 python -m venv venv
